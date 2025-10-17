@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "493216772558",
+    "project_id": "uci-project-4292e",
+    "storage_bucket": "uci-project-4292e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493216772558:android:c9d1b1a2bee4e5f6f17b9f",
+        "android_client_info": {
+          "package_name": "com.example.uci_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIjdZJKhbR5RmriSxJQADAFmUEWcJhRkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
